@@ -5,13 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tw:build": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
+    "tw:build": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch",
+    "build:css": "postcss ./src/css/tailwind.css -o ./public/css/tailwind.css"
   },
   "author": "Alex Zapata",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.14"
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "postcss-cli": "^11.0.0"
   }
 }

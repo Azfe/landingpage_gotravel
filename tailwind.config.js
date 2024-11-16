@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   content: ["./public/index.html", "./src/**/*.{html,js}"],
   theme: {
@@ -9,6 +11,18 @@ module.exports = {
 			primary: "#CC2D4A",
 			secondary: "#8FA206",
 			tertiary: "#61AEC9",
+      white: "#FFFFFF",      
+      red: colors.red,
+      cal:colors.cal,
+      green: colors.green,
+      black: colors.black,
+      white: colors.white,
+      gray: colors.gray,
+      emerald: colors.emerald,
+      blue: colors.blue,
+      indigo: colors.indigo,
+      yellow: colors.yellow,
+      neutral: colors.neutral
 		},
     extend: {
       backgroundImage: {
