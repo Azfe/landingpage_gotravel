@@ -15,13 +15,15 @@ git clone https://github.com/Azfe/landingpage_gotravel.git
 ```bash
 cd landingpage_gotravel
 ```
-
-3. En la terminal de comandos iniciar:
+3. En la terminal de comandos iniciar nuevo proyecto de Node.js:
+```bash
+npm init
+```
+4. En la terminal de comandos ejecutar el script de los estilos de Tailwind CSS:
 ```bash
 npm run tw:build
 ```
-
-10. Abrir el archivo `index.html` en tu navegador web favorito.
+5. Abrir el archivo `index.html` en tu navegador web favorito.
 
 ## Uso
 ### Navegación
