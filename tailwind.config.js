@@ -32,7 +32,7 @@ module.exports = {
         'LA': "url('/src/assets/images/LA.jpg')",
         'seattle': "url('/src/assets/images/seattle.jpg')",
         'new_york': "url('/src/assets/images/new_york.jpg')",
-        'norway': "url('/src/assets/images/norway.jpg')",
+        'norway': "url('../../src/assets/images/norway.jpg')",
         'sydney': "url('/src/assets/images/sydney.jpg')",
         'miami': "url('/src/assets/images/miami.jpg')",
         'switzerland': "url('/src/assets/images/switzerland.jpg')",
