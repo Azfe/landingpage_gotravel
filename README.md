@@ -15,9 +15,9 @@ git clone https://github.com/Azfe/landingpage_gotravel.git
 ```bash
 cd landingpage_gotravel
 ```
-3. En la terminal de comandos iniciar nuevo proyecto de Node.js:
+3. En la terminal de comandos instalar dependencias definidas en el archivo `package.json` de Node.js:
 ```bash
-npm init
+npm install
 ```
 4. En la terminal de comandos ejecutar el script de los estilos de Tailwind CSS:
 ```bash
