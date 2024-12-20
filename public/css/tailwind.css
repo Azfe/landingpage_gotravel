@@ -817,6 +817,10 @@ video {
   background-image: url('/src/assets/images/yosemite.jpg');
 }
 
+.bg-europe {
+  background-image: url('/src/assets/images/europe.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
