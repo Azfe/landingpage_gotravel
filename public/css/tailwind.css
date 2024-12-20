@@ -778,27 +778,27 @@ video {
 }
 
 .bg-LA {
-  background-image: url('/src/assets/images/LA.jpg');
+  background-image: url('../../src/assets/images/LA.jpg');
 }
 
 .bg-bali {
-  background-image: url('/src/assets/images/bali.jpg');
+  background-image: url('../../src/assets/images/bali.jpg');
 }
 
 .bg-chicago {
-  background-image: url('/src/assets/images/chicago.jpg');
+  background-image: url('../../src/assets/images/chicago.jpg');
 }
 
 .bg-europe {
-  background-image: url('/src/assets/images/europe.jpg');
+  background-image: url('../../src/assets/images/europe.jpg');
 }
 
 .bg-iceland {
-  background-image: url('/src/assets/images/iceland.jpg');
+  background-image: url('../../src/assets/images/iceland.jpg');
 }
 
 .bg-miami {
-  background-image: url('/src/assets/images/miami.jpg');
+  background-image: url('../../src/assets/images/miami.jpg');
 }
 
 .bg-new_york {
@@ -806,19 +806,19 @@ video {
 }
 
 .bg-norway {
-  background-image: url('../assets/images/norway.jpg');
+  background-image: url('../../assets/images/norway.jpg');
 }
 
 .bg-seattle {
-  background-image: url('/src/assets/images/seattle.jpg');
+  background-image: url('../../src/assets/images/seattle.jpg');
 }
 
 .bg-switzerland {
-  background-image: url('/src/assets/images/switzerland.jpg');
+  background-image: url('../../src/assets/images/switzerland.jpg');
 }
 
 .bg-yosemite {
-  background-image: url('/src/assets/images/yosemite.jpg');
+  background-image: url('../../src/assets/images/yosemite.jpg');
 }
 
 .bg-cover {
@@ -1196,7 +1196,7 @@ video {
   }
 
   .lg\:bg-sanFranciscoDesktop {
-    background-image: url('../images/sanFranciscoDesktop.jpg');
+    background-image: url('../../src/assets/images/sanFranciscoDesktop.jpg');
   }
 
   .lg\:bg-cover {
