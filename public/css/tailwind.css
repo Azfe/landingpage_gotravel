@@ -798,27 +798,27 @@ video {
 }
 
 .bg-miami {
-  background-image: url('/src/assets/images/miami.jpg');
+  background-image: url('./src/assets/images/miami.jpg');
 }
 
 .bg-new_york {
-  background-image: url('/src/assets/images/new_york.jpg');
+  background-image: url('./src/assets/images/new_york.jpg');
 }
 
 .bg-norway {
-  background-image: url('/src/assets/images/norway.jpg');
+  background-image: url('./src/assets/images/norway.jpg');
 }
 
 .bg-seattle {
-  background-image: url('/src/assets/images/seattle.jpg');
+  background-image: url('./src/assets/images/seattle.jpg');
 }
 
 .bg-switzerland {
-  background-image: url('/src/assets/images/switzerland.jpg');
+  background-image: url('./src/assets/images/switzerland.jpg');
 }
 
 .bg-yosemite {
-  background-image: url('/src/assets/images/yosemite.jpg');
+  background-image: url('./src/assets/images/yosemite.jpg');
 }
 
 .bg-cover {
